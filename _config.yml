@@ -1,0 +1,23 @@
+name: EmberAeonic
+favicon: null
+layout_spectrum: 0.856700504431501
+typography_spectrum: 0.22609325451776385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9445864108856767
+  lightness: 0.648974406067282
+  saturation: 0.16592776705510914
+  rhythmicContrast: 0.902424099156633
+purpose: []
