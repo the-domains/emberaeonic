@@ -4,14 +4,14 @@
         <description><![CDATA[EmberAeonic]]></description>
         <link>https://thegrid.ai/emberaeonic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 17:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 17:31:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/emberaeonic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Test Post!]]></title>
-            <description><![CDATA[<article><h1>Test Post!</h1><p>This is a test post.</p></article>]]></description>
-            <link>https://thegrid.ai/emberaeonic/test-post/index.html</link>
-            <guid isPermaLink="false">b625e1b1-0518-45c0-8d52-bbf6dc5405b2</guid>
-            <pubDate>Tue, 27 Oct 2015 17:13:17 GMT</pubDate>
+            <title><![CDATA[Promo Shot]]></title>
+            <description><![CDATA[<article><h1>Promo Shot</h1><p>Test of sharing an image.</p><img src="https://scontent.fphx1-2.fna.fbcdn.net/hphotos-xlf1/t31.0-8/s960x960/11154613_1573456456246551_3867093030290179124_o.jpg"></article>]]></description>
+            <link>https://scontent.fphx1-2.fna.fbcdn.net/hphotos-xlf1/t31.0-8/s960x960/11154613_1573456456246551_3867093030290179124_o.jpg</link>
+            <guid isPermaLink="false">7ff92ee4-a64a-4be8-8d27-70f941d43737</guid>
+            <pubDate>Tue, 27 Oct 2015 17:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
